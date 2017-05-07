@@ -16,4 +16,4 @@ app.use(bodyParser.json());
 app.use('/auth', authController);
 app.use('/stock',StockController);
 app.use('/credit',CreditController);
-app.listen(3000);
+app.listen(60);
