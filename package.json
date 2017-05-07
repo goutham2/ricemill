@@ -14,5 +14,8 @@
     "jsonwebtoken": "^7.4.0",
     "knex": "^0.13.0",
     "passport": "^0.3.2"
+  },
+  "engines": {
+    "node": "6.10.2"
   }
 }
